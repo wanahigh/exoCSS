@@ -1,0 +1,82 @@
+* {
+padding: 10px 10px;
+margin: 10px 10px;
+color: white;
+}
+html {
+height: 100%;
+
+}
+body {
+height: 100%;
+display: flex;
+flex-direction: column;
+}
+
+header {
+background-color: grey;
+height: 50px;
+border-radius: 10px;
+padding-left: 35px;
+margin-bottom: 10px;
+flex-grow: 2;
+}
+
+
+nav {
+padding-left: 35px;
+background-color: grey;
+border-radius: 10px;
+flex-grow: 1;
+
+}
+.vert {
+display: flex;
+flex-direction: row;
+margin: -10px -10px -10px -10px;
+padding-right: 10px;
+flex-grow: 5;
+
+
+}
+section {
+padding-left: 30px;
+margin-bottom: 10;
+background-color: grey;
+border-radius: 10px;
+flex: 3;
+display: flex;
+flex-direction: column;
+flex-grow: 5;
+}
+
+article {
+margin-left: -10px;
+background-color: lightgrey;
+border-radius: 10px;
+flex-grow: 5;
+}
+
+aside {
+background-color: grey;
+border-radius: 10px;
+flex: 1;
+}
+footer {
+padding-left: 30px;
+background-color: grey;
+border-radius: 10px;
+flex-grow: 1;
+}
+
+.font {
+display: flex;
+flex-direction: column;
+min-height: 400px;
+min-width: 270px;
+background-color: #303030 ;
+border-radius: 10px;
+margin: 50px 50px;
+flex-grow: 1;
+
+}

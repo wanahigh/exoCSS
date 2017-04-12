@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+  <head><link rel="stylesheet" href="project.css"/>
+  </head>
+    <body class="font"><header>JE SUIS UN HEADER</header>
+            <nav>JE SUIS LA NAVBAR</nav>
+            <div class="vert"><section><article>JE SUIS LE 1ER ARTICLE </article>
+                      <article> JE SUIS LE 2E ARTICLE </article>
+            </section>
+              <aside>JE SUIS LE COTE DE LA PAGE></aside>
+
+              <footer>JE SUIS LE PIED DE PAGE</footer>
+      </body>
+  </html>
